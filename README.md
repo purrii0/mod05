@@ -27,7 +27,7 @@ To run this project locally, follow these steps:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd mod05-name-project
+   cd mod05
    ```
 3. Install the dependencies:
    ```bash
