@@ -62,7 +62,7 @@ function HomePage() {
             </div>
             <div className="text-5xl md:text-7xl font-extralight mr-10 md:mr-[40px] flex justify-center items-center">
               MOD.05{" "}
-              <div className="inline-block w-[40px] flex-grow h-[0.5px] bg-black top-1/2"></div>
+              <div className="inline-block w-[40px] md:w-[100px] flex-grow h-[0.5px] md:[2.5px] bg-black top-1/2"></div>
             </div>
             <div className="text-5xl md:text-7xl font-extralight ml-[20px] md:ml-[60px]">
               SCENE
