@@ -1,8 +1,4 @@
-Got it! If you want to include a section for the live link in your README, you can add something like this:
-
----
-
-# Mod05 Name Project
+# Mod05
 
 A static web project developed using Vite, React, and Tailwind CSS.
 
